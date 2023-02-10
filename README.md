@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 👨‍💻 I'm a software engineer working at [Y!](https://yahoo.com), and we are building [Screwdriver](https://screwdriver.cd) to better CI/CD one bit at a time .
+
+<div>
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=adong&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adong&layout=compact" />
+</div>
