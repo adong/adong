@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨‍💻 I'm a software engineer working at [Y!](https://yahoo.com), and we are building [Screwdriver](https://screwdriver.cd) to better CI/CD one bit at a time .
+👨‍💻 I'm a software engineer working at [WAI!](https://witness.ai), and we are building the team and culture needed to achieve our ambitious goal–to become the leader in AI security and safety. 
 
 <div>
     <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=adong&count_private=true&include_all_commits=true" />
