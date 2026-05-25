@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 👨‍💻 I'm a software engineer working at [WAI!](https://witness.ai), and we are building the team and culture needed to achieve our ambitious goal–to become the leader in AI security and safety. 
 
 <div>
-    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=adong&count_private=true&include_all_commits=true" />
+    <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=adong&count_private=true&include_all_commits=true" /> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adong&layout=compact" /> -->
 </div>
